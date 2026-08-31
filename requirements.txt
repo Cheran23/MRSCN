@@ -1,0 +1,18 @@
+# MRSCN reproducibility package - Python dependencies
+#
+# Versions are not pinned here because the original work was run on Google
+# Colab's free-tier managed environment, whose package versions change over
+# time and were never explicitly frozen run-by-run. If you need bit-for-bit
+# environment reproduction rather than "these are the packages you need",
+# capture `pip freeze` from a fresh Colab runtime at the time you run this
+# and commit that alongside this file (see README.md, "Environment" section).
+
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+torch
+transformers
+xgboost
+tqdm
