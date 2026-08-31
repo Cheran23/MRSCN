@@ -44,7 +44,7 @@ MRSCN_reproducibility_package/
 ```
 
 **Data deposit DOI:** `10.5281/zenodo.22204730`
-**Code deposit DOI (this repository, via GitHub-Zenodo integration):** `[DOI — to be added once a GitHub release is cut]`
+**Code deposit DOI (this repository, via GitHub-Zenodo integration):** `10.5281/zenodo.22214147`
 
 ## What's in `code/`
 
