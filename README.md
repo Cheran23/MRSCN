@@ -43,7 +43,7 @@ MRSCN_reproducibility_package/
   folds/                       <- from the patch, required by code/utils/data_utils.py
 ```
 
-**Data deposit DOI:** `[DOI — to be added once the data deposit is published]`
+**Data deposit DOI:** `10.5281/zenodo.22204730`
 **Code deposit DOI (this repository, via GitHub-Zenodo integration):** `[DOI — to be added once a GitHub release is cut]`
 
 ## What's in `code/`
